@@ -1,0 +1,15 @@
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\bin\Debug\L2Updater.exe.config
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\bin\Debug\L2Updater.exe
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\bin\Debug\L2Updater.pdb
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\MainWindow.baml
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\MainWindow.g.cs
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\App.g.cs
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater_MarkupCompile.cache
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.g.resources
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.Properties.Resources.resources
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.csproj.GenerateResource.Cache
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.exe
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.pdb
+c:\users\mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater.csprojResolveAssemblyReference.cache
+C:\Users\Mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\obj\Debug\L2Updater_Content.g.cs
+C:\Users\Mano\documents\visual studio 2013\Projects\L2Updater\L2Updater\bin\Debug\Lineage 2 -  Hunters Village.mp3
